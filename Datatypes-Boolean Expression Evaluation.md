@@ -29,3 +29,4 @@ print(f"d: {d}")
 ![9c299a6b-db49-4ae6-a151-6d720f3c23d1](https://github.com/user-attachments/assets/b5cffc62-788c-4772-978c-e1e2c803486a)
 
 ## Result
+Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
